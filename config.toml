@@ -1,4 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "fr-fr"
+baseURL = "https://yoo.github.io/freelance/"
+languageCode = "en-us"
 title = "Yoann Mellier"
 theme = "hugograyscale"
+[Params]
+    # Provide some metadata for search and indexing services
+    description = "A port of the Grayscale theme to Hugo"
+    author = "RunningStream"
